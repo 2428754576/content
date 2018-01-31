@@ -1,0 +1,44 @@
+<div class="section-2 clearfix">
+  <div class="region region-menu">
+    <div id="block-superfish-1" class="block block-superfish block-odd">
+      <div class="content">
+        <ul id="superfish-1" class="sf-menu main-menu sf-horizontal sf-style-default sf-total-items-7 sf-parent-items-1 sf-single-items-6 sf-js-enabled">
+
+          <li id="menu-201-1" class="first odd sf-item-1 sf-depth-1 sf-no-children"><a href="/index.html" class="sf-depth-1  active">首页</a></li>
+
+          <li id="menu-1997-1" class="middle even sf-item-2 sf-depth-1 sf-no-children"><a href="/page/demo.html" title="" class="sf-depth-1 ">体验时刻</a></li>
+
+          <li id="menu-739-1" class="middle odd sf-item-3 sf-depth-1 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/page/products.html" title="" class="sf-depth-1  menuparent">课程购买</a>
+            <ul style="float: none; width: 12em; display: none; visibility: hidden;" class="zzzz">
+              <li style="white-space: normal; float: left; width: 100%;" id="menu-1145-1" class="first odd sf-item-1 sf-depth-2 sf-no-children">
+                <a style="float: none; width: auto;" href="/page/products.html#a" title="" class="sf-depth-2 ">家庭版</a>
+              </li>
+              <li style="white-space: normal; float: left; width: 100%;" id="menu-1446-1" class="middle even sf-item-2 sf-depth-2 sf-no-children">
+                <a style="float: none; width: auto;" href="/page/products.html#b" title="" class="sf-depth-2 ">学校单人版</a>
+              </li>
+              <li style="white-space: normal; float: left; width: 100%;" id="menu-1446-1" class="middle even sf-item-2 sf-depth-2 sf-no-children">
+                <a style="float: none; width: auto;" href="/page/products.html#c" title="" class="sf-depth-2 ">学校班级版</a>
+              </li>
+            </ul>
+          </li>
+
+          <li id="menu-1998-1" class="middle even sf-item-4 sf-depth-1 sf-parent-children-0 sf-single-children-2 menuparent"><a href="http://www.lcfclubs.com/englishzone/china/index-home-chinese.asp"　target='_blank'>课程使用</a>
+	<ul style="float: none; width: 12em; display: none; visibility: hidden;" class="zzzz">
+              <li style="white-space: normal; float: left; width: 100%;" id="menu-1145-1" class="first odd sf-item-1 sf-depth-2 sf-no-children">
+                <a style="float: none; width: auto;" href="http://www.lcfclubs.com/englishzone/china/index-home-chinese.asp"　target='_blank' title="" class="sf-depth-2 ">家庭版入口</a>
+              </li>
+              <li style="white-space: normal; float: left; width: 100%;" id="menu-1446-1" class="middle even sf-item-2 sf-depth-2 sf-no-children">
+                <a style="float: none; width: auto;" href="http://www.lcfclubs.com/englishzone/china/index-home-chinese.asp"　target='_blank' title="" class="sf-depth-2 ">学校版入口</a>
+              </li>
+            </ul>
+</li>
+
+          <li id="menu-668-1" class="middle odd sf-item-5 sf-depth-1 sf-no-children"><a href="/page/advantage.html" title="" class="sf-depth-1 ">课程优势</a></li>
+          <li id="menu-1999-1" class="middle even sf-item-6 sf-depth-1 sf-no-children"><a href="/page/media.html" title="" class="sf-depth-1 ">&#x5A92;&#x4F53;&#x62A5;&#x9053;</a></li>
+
+          <li id="menu-442-1" class="last odd sf-item-7 sf-depth-1 sf-no-children"><a href="http://s.meridian-mkt.cn/1432/videos/1/ENTER_HERE.html" title="" class="sf-depth-1 ">&#x6F14;&#x793A;&#x89C6;&#x9891;</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>

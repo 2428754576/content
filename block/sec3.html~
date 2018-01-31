@@ -1,0 +1,137 @@
+<div class="section-3 clearfix">
+  <div class="region region-header">
+    <div id="block-views-slider-block" class="block block-views block-even">
+      <div class="content">
+        <div class="view view-slider view-id-slider view-display-id-block view-dom-id-39d18b6e429775cb83af6e889857a16c">
+          <div class="view-content">
+            <div class="skin-default">
+              <div id="flexslider_views_slideshow_main_slider-block" class="flexslider_views_slideshow_main views_slideshow_main flexslider_views_slideshow-processed">
+                <div class="flex-nav-container">
+                  <div class="flexslider flexslider-processed">
+                    <ul id="flexslider_views_slideshow_slider-block" class="flexslider-views-slideshow-main-frame slides">
+                      <li style="width: 100%; float: left; margin-right: -100%; display: none;" class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-1 views-row-odd">
+                        <div class="views-field views-field-field-slide-image">
+                          <div class="field-content">
+                            <img src="/res/slide1.png" alt="">
+                          </div>
+                        </div>
+                        <div class="views-field views-field-body">
+                          <div class="field-content">
+                            <p><strong>&#xA0;</strong><b>&#x8BB2;&#x6545;&#x4E8B; &#x5B66;&#x8BED;&#x6CD5;</b><span></span></p>
+                          </div>
+                        </div>
+                        <div class="views-field views-field-view-node"> <span class="field-content"><a href="#">&#x8BE6;&#x7EC6;</a></span> </div>
+                      </li>
+                      <li style="width: 100%; float: left; margin-right: -100%; display: none;" class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-2 views_slideshow_cycle_hidden views-row-even">
+                        <div class="views-field views-field-field-slide-image">
+                          <div class="field-content"><img src="/res/slide2.png" alt="">
+                          </div>
+                        </div>
+                        <div class="views-field views-field-body">
+                          <div class="field-content">
+                            <p><strong>&#xA0;</strong><b>&#x73A9;&#x6E38;&#x620F; &#x8BB0;&#x5355;&#x8BCD;</b> <span></span></p>
+                          </div>
+                        </div>
+                        <div class="views-field views-field-view-node"> <span class="field-content"><a href="#">more</a></span>
+                        </div>
+                      </li>
+                      <li style="width: 100%; float: left; margin-right: -100%; display: none;" class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-3 views_slideshow_cycle_hidden views-row-odd">
+                        <div class="views-field views-field-field-slide-image">
+                          <div class="field-content"><img src="/res/slide3.png" alt=""></div>
+                        </div>
+                        <div class="views-field views-field-body">
+                          <div class="field-content">
+                            <p><strong>&#xA0;</strong><b>&#x81EA;&#x7136;&#x53D1;&#x97F3;&#x6559;&#x5B66;&#x6CD5;</b> <span></span></p>
+                          </div>
+                        </div>
+                        <div class="views-field views-field-view-node"> <span class="field-content"><a href="#">more</a></span> </div>
+                      </li>
+                      <li style="width: 100%; float: left; margin-right: -100%; display: none;" class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-4 views_slideshow_cycle_hidden views-row-even">
+                        <div class="views-field views-field-field-slide-image">
+                          <div class="field-content"><img src="/res/slide4.png" alt=""></div>
+                        </div>
+                        <div class="views-field views-field-body">
+                          <div class="field-content">
+                            <p><strong>&#xA0;</strong><b>&#x5531;&#x513F;&#x6B4C; &#x770B;&#x56FE;&#x753B;</b> <span></span></p>
+                          </div>
+                        </div>
+                        <div class="views-field views-field-view-node"> <span class="field-content"><a href="#">more</a></span> </div>
+                      </li>
+                      <li style="width: 100%; float: left; margin-right: -100%; display: list-item;" class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-5 views_slideshow_cycle_hidden views-row-odd">
+                        <div class="views-field views-field-field-slide-image">
+                          <div class="field-content"><img src="/res/slide5.png" alt=""></div>
+                        </div>
+                        <div class="views-field views-field-body">
+                          <div class="field-content">
+                            <p><strong>&#xA0;</strong><b>西班牙语</b> <span>&#x5B66;&#x8BED;&#x6CD5;</span></p>
+                          </div>
+                        </div>
+                        <div class="views-field views-field-view-node"> <span class="field-content"><a href="#">more</a></span> </div>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!--------->
+
+
+
+
+  <div id="block-block-6" class="block block-block block-odd">
+    <div class="content">
+      <p>关注我们-微信号 <span> 1660219914</span></p>
+    </div>
+  </div>
+
+  <div id="block-views-info-blocks-block" class="block block-views block-even">
+    <div class="content">
+      <div class="view view-info-blocks view-id-info_blocks view-display-id-block view-dom-id-e0e6d8859b4ef25261e158121d31598e">
+        <div class="view-content">
+          <div class="views-row views-row-1 views-row-odd views-row-first">
+            <div class="views-field views-field-title"> <span class="field-content">特色课程</span> </div>
+            <div class="views-field views-field-field-image">
+              <div class="field-content"><img src="/res/1-p1.jpg" alt="" height="159" width="259">
+              </div>
+            </div>
+            <div class="views-field views-field-body">
+              <div class="field-content">课程内容涵盖海量的原声歌曲, 故事和游戏. 可提供您下载mp3歌曲及歌词...
+              </div>
+            </div>
+            <div class="views-field views-field-view-node"> <span class="field-content"><a href="/page/products.html">查看</a></span> </div>
+          </div>
+          <div class="views-row views-row-2 views-row-even">
+            <div class="views-field views-field-title"> <span class="field-content">独创教法</span>
+            </div>
+            <div class="views-field views-field-field-image">
+              <div class="field-content"><img src="/res/1-p2.jpg" alt="" height="159" width="259">
+              </div>
+            </div>
+            <div class="views-field views-field-body">
+              <div class="field-content">讲故事, 学语法; 看图记单词; 自然拼音教学法; 唱歌做游戏...
+              </div>
+            </div>
+            <div class="views-field views-field-view-node"> <span class="field-content"><a href="/page/advantage.html">查看</a></span> </div>
+          </div>
+          <div class="views-row views-row-3 views-row-odd views-row-last">
+            <div class="views-field views-field-title"> <span class="field-content">用户口碑</span> </div>
+            <div class="views-field views-field-field-image">
+              <div class="field-content"><img src="/res/1-p3.jpg" alt="" height="159" width="259">
+              </div>
+            </div>
+            <div class="views-field views-field-body">
+              <div class="field-content">全球超过5000多个LCF培训中心，每周都有超过50,000名儿童参加参加各类培训课程...
+              </div>
+            </div>
+            <div class="views-field views-field-view-node"> <span class="field-content"><a href="/page/about-us.html">查看</a></span> </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
